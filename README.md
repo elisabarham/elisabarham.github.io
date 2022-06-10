@@ -129,6 +129,11 @@ Sin duda he aprendido muchas cosas teniendo en cuenta que partía de una base to
 ![fondo jugar 1](https://user-images.githubusercontent.com/106830312/173058978-9f7f88f4-2804-4646-b5d8-dfcc23ec0f16.jpg)
 ![polly 2](https://user-images.githubusercontent.com/106830312/173058990-a0eb8f61-cbe1-4e89-9ad6-714abbf04b86.png)
 ![polly de cerca](https://user-images.githubusercontent.com/106830312/173058995-cac7752a-02f3-4661-af51-54003ce826a0.png)
+![personaje laberinto](https://user-images.githubusercontent.com/106830312/173059550-96a5be84-a47a-405e-9fa4-2988f3aa7afe.png)
+
+![triangulo acierto](https://user-images.githubusercontent.com/106830312/173059561-ebe0a77d-4bba-4cb2-ad74-7e9ca3055d63.png)
+![triangulo error ](https://user-images.githubusercontent.com/106830312/173059568-6de3eb52-fe53-4a34-a69f-abde4c8b3f62.png)
+![triangulo pregunta bueno](https://user-images.githubusercontent.com/106830312/173059578-0e4528c2-546c-4721-b32b-ebfcf9247c5c.png)
 
 
 
